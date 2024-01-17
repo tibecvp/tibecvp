@@ -20,7 +20,7 @@ I'm **Tiberio Calderón**, a dedicated and detail-oriented professional with ove
 - 🇮🇹 Italian (Intermediate)
 
 ## 💬 Let's connect!
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tibecvp/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiberiocalderonv/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@tibecalderon) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiberiocalderonv/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@tibecalderon) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tibecvp/)
 
 I'm actively seeking opportunities to collaborate on exciting Front-end projects and contribute my unique blend of skills and experience to a dynamic team. Whether you want to discuss a potential collaboration or simply chat about the latest in Front-end development, I'd love to connect!
 
